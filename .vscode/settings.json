@@ -17,6 +17,7 @@
    "terminal.integrated.gpuAcceleration": "canvas",
    "cSpell.words": [
       "allauth",
+      "corejs",
       "socialaccount"
    ],
 }
