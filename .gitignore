@@ -10,3 +10,4 @@ cloudinary_python.txt
 .vscode
 *.sqlite3
 *.pyc
+boutique_ado/__pycache__
