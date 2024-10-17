@@ -18,6 +18,7 @@
    "cSpell.words": [
       "allauth",
       "corejs",
+      "csrfmiddlewaretoken",
       "socialaccount"
    ],
 }
