@@ -19,6 +19,7 @@
       "allauth",
       "corejs",
       "csrfmiddlewaretoken",
+      "lineitem",
       "socialaccount"
    ],
 }
