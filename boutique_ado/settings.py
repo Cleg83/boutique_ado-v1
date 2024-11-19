@@ -30,7 +30,7 @@ SECRET_KEY = 'SECRET_KEY'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutique-ado-cleg83.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['boutique-ado-cleg83-b2aec74e52eb.herokuapp.com', 'localhost']
 
 
 # Application definition
